@@ -1,4 +1,5 @@
 - prisma example project modified for postgresql
+- psql 12.3 (Mac executable)
 
 # Repro steps
 
