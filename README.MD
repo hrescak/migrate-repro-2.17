@@ -12,8 +12,8 @@ npm install
 npx migrate dev --preview-feature
 ```
 
-expected: migrate dev runs
-actual:
+- expected: migrate dev runs
+- actual:
 
 ```
 Environment variables loaded from prisma/.env
